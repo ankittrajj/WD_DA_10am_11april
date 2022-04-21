@@ -1,0 +1,15 @@
+Pandas Mini Projects Exercise
+
+
+1. From the given dataset print the first and last five rows
+2. Clean the dataset and update the CSV file
+3. Find the most expensive car company name
+4. Print All Toyota Cars details
+5. Count total cars per company
+6. Find each company’s Higesht price car
+7. Find the average mileage of each car making company
+8. Sort all cars by Price column
+9.Concatenate two data frames using the following conditions
+	Merge two data frames using the following condition
+
+Create two data frames using the following two Dicts, Merge two data frames, and append the second data frame as a new column to the first data frame.
